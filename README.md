@@ -1,7 +1,7 @@
 # Lab-Week
 
-
-```Fiona / Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
+```
+Fiona / Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
 
 Intentions (To be formulated into firm plan Monday am):
 
