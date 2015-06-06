@@ -8,8 +8,8 @@ Intentions (To be formulated into firm plan Monday am):
 Ruby basics
   [x] Pairing with Joanne on Airport 
   [x] Pairing with Stefan on Boris Bikes
-  [ ] Codeacademy Ruby Walkthrough
-  [ ] Vending Machine kata
+  [x] Codeacademy Ruby Walkthrough
+  [x] Vending Machine kata
   [ ] Well Grounded Rubyist (3 chapters)
 
 Javascript
@@ -24,7 +24,7 @@ Checklist:
 [x] Form plan in Monday standup
 [x] Got to middle of stage 5 on Boris Bikes
 [x] Got to 1/2 of Airport
-[ ]
+[x] only 1 feature of Vending Machine kata completed although not solid on understanding :(
 
 Lectures:
 Monday 9:30am                   : Stephen's "Let's get going" JS bowling talk.
